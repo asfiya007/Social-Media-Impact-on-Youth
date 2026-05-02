@@ -26,7 +26,7 @@ This project is a simple HTML-based research website that explores the impact of
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 * HTML5
 * Basic Web Design
@@ -42,7 +42,7 @@ This project is a simple HTML-based research website that explores the impact of
 
 ---
 
-## 📊 Key Highlights
+## Key Highlights
 
 * Explains real-world social media usage trends
 * Covers mental health, communication, and education impact
