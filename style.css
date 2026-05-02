@@ -1,0 +1,118 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Center container */
+body {
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* Title */
+big b {
+    font-size: 32px;
+    color: #2c3e50;
+}
+
+/* Author section */
+small {
+    color: #666;
+}
+
+/* Headings */
+h2 {
+    margin-top: 30px;
+    color: #1a73e8;
+    border-left: 5px solid #1a73e8;
+    padding-left: 10px;
+}
+
+h3 {
+    margin-top: 20px;
+    color: #34495e;
+}
+
+/* Paragraphs */
+p {
+    margin: 10px 0;
+    text-align: justify;
+}
+
+/* Horizontal line */
+hr {
+    margin: 25px 0;
+    border: none;
+    border-top: 1px solid #ddd;
+}
+
+/* Lists */
+ol {
+    margin-left: 20px;
+}
+
+li {
+    margin-top: 15px;
+}
+
+/* Images */
+img {
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+    margin: 5px;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+/* Center align */
+center {
+    display: block;
+    text-align: center;
+}
+
+/* Graph image */
+img[src="graph.jpeg"] {
+    border: 2px solid #ccc;
+}
+
+/* Video styling */
+iframe {
+    display: block;
+    margin: 15px auto;
+    border-radius: 10px;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+}
+
+/* Footer */
+small {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    color: #888;
+}
+
+/* Section box (optional improvement) */
+section {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
